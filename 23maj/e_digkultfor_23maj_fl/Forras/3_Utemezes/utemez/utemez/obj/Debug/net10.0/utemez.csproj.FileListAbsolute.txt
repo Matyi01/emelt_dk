@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.exe
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.deps.json
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.runtimeconfig.json
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.dll
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\bin\Debug\net10.0\utemez.pdb
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.AssemblyInfo.cs
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.sourcelink.json
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.dll
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\refint\utemez.dll
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.pdb
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\utemez.genruntimeconfig.cache
+C:\Users\admin\Documents\git\emelt_dk\23maj\e_digkultfor_23maj_fl\Forras\3_Utemezes\utemez\utemez\obj\Debug\net10.0\ref\utemez.dll
