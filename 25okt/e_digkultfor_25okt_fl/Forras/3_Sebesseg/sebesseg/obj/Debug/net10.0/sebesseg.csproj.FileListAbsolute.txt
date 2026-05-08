@@ -1,0 +1,15 @@
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/bin/Debug/net10.0/sebesseg
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/bin/Debug/net10.0/sebesseg.deps.json
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/bin/Debug/net10.0/sebesseg.runtimeconfig.json
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/bin/Debug/net10.0/sebesseg.dll
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/bin/Debug/net10.0/sebesseg.pdb
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.GeneratedMSBuildEditorConfig.editorconfig
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.AssemblyInfoInputs.cache
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.AssemblyInfo.cs
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.csproj.CoreCompileInputs.cache
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.sourcelink.json
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.dll
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/refint/sebesseg.dll
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.pdb
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/sebesseg.genruntimeconfig.cache
+/home/holcz/git/emelt_dk/25okt/e_digkultfor_25okt_fl/Forras/3_Sebesseg/sebesseg/obj/Debug/net10.0/ref/sebesseg.dll
