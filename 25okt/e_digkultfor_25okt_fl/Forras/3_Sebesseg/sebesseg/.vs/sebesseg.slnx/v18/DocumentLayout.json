@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D05EA55-8591-4C77-B7A8-C7599B47A21D}|sebesseg\\sebesseg.csproj|d:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\forras\\3_sebesseg\\sebesseg\\sebesseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D05EA55-8591-4C77-B7A8-C7599B47A21D}|sebesseg\\sebesseg.csproj|solutionrelative:sebesseg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\bin\\Debug\\net10.0\\ut.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sebesseg\\bin\\Debug\\net10.0\\ut.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D05EA55-8591-4C77-B7A8-C7599B47A21D}|sebesseg\\sebesseg.csproj|d:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\forras\\3_sebesseg\\sebesseg\\sebesseg\\adat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D05EA55-8591-4C77-B7A8-C7599B47A21D}|sebesseg\\sebesseg.csproj|solutionrelative:sebesseg\\adat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ut.txt",
+              "DocumentMoniker": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\bin\\Debug\\net10.0\\ut.txt",
+              "RelativeDocumentMoniker": "sebesseg\\bin\\Debug\\net10.0\\ut.txt",
+              "ToolTip": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\bin\\Debug\\net10.0\\ut.txt",
+              "RelativeToolTip": "sebesseg\\bin\\Debug\\net10.0\\ut.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-14T13:13:40.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adat.cs",
+              "DocumentMoniker": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\Adat.cs",
+              "RelativeDocumentMoniker": "sebesseg\\Adat.cs",
+              "ToolTip": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\Adat.cs",
+              "RelativeToolTip": "sebesseg\\Adat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:21:01.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\Program.cs",
+              "RelativeDocumentMoniker": "sebesseg\\Program.cs",
+              "ToolTip": "D:\\git\\emelt_dk\\25okt\\e_digkultfor_25okt_fl\\Forras\\3_Sebesseg\\sebesseg\\sebesseg\\Program.cs",
+              "RelativeToolTip": "sebesseg\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:10:30.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
